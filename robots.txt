@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sikaloqitefu.pages.dev/sitemap.xml
